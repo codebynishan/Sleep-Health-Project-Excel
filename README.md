@@ -1,5 +1,6 @@
 # Sleep Health Data Analysis
-![Demo Image](<img width="952" height="514" alt="Screenshot 2026-01-17 at 11 21 28" src="https://github.com/user-attachments/assets/b6e706d4-3d26-4e3a-a525-01dfd80eb301" />)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/b6e706d4-3d26-4e3a-a525-01dfd80eb301)
+
 
 
 ## Description
