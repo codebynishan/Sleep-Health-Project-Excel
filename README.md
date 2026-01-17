@@ -18,27 +18,27 @@ The goal of this project is to transform raw health data into **clear, actionabl
 
 ---
 
-## 📊 Dashboard Description
+##  Dashboard Description
 
 The dashboard provides a visual summary of key insights related to sleep health:
 
-### 1️⃣ Sleep Duration by Occupation
+### Sleep Duration by Occupation
 - Displays the **average sleep duration** across different occupations
 - Helps identify professions associated with **shorter or healthier sleep patterns**
 
-### 2️⃣ Average Stress Level by Occupation
+### Average Stress Level by Occupation
 - Compares stress levels across professions
 - Highlights occupations with **higher stress impact on sleep health**
 
-### 3️⃣ BMI Category by Sleep Duration
+### BMI Category by Sleep Duration
 - Shows how **sleep duration varies across BMI categories**
 - Helps explore the relationship between **sleep habits and body weight**
 
-### 4️⃣ Sleep Disorder Distribution
+### Sleep Disorder Distribution
 - Visualizes the proportion of individuals with **sleep disorders (e.g., insomnia)** versus no disorders
 - Provides insight into the **prevalence of sleep-related health issues**
 
-### 5️⃣ Interactive Filters (Slicers)
+### Interactive Filters (Slicers)
 - Gender  
 - Occupation  
 - Age Group  
@@ -47,7 +47,7 @@ These slicers allow users to **interactively explore the data**, making the dash
 
 ---
 
-## 🧹 Data Preparation & Methodology
+## Data Preparation & Methodology
 
 Before creating the dashboard, the dataset was cleaned and transformed to ensure data quality:
 
@@ -61,7 +61,7 @@ This ensured that all insights shown in the dashboard are **accurate and reliabl
 
 ---
 
-## ▶️ How to Use the Dashboard
+## How to Use the Dashboard
 
 1. Download and open the Excel file  
    `Sleep_health_and_lifestyle_data.xlsx`
@@ -75,7 +75,7 @@ This ensured that all insights shown in the dashboard are **accurate and reliabl
 
 ---
 
-## 🛠 Tools & Skills Used
+## Tools & Skills Used
 
 - **Microsoft Excel**
   - Pivot Tables  
@@ -88,7 +88,7 @@ This ensured that all insights shown in the dashboard are **accurate and reliabl
 
 ---
 
-## 📈 Key Insights & Findings
+## Key Insights & Findings
 
 - Certain occupations show **higher stress levels and lower sleep duration**
 - Sleep duration varies noticeably across **BMI categories**
@@ -97,7 +97,7 @@ This ensured that all insights shown in the dashboard are **accurate and reliabl
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Dataset size is limited and may not represent the entire population  
 - Sleep and stress data are self-reported and may contain bias  
@@ -106,7 +106,7 @@ This ensured that all insights shown in the dashboard are **accurate and reliabl
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add time-based analysis to track sleep trends  
 - Include additional lifestyle metrics (diet, screen time, mental health)  
@@ -145,7 +145,7 @@ Through this project, I strengthened my skills in:
 - Extracting and communicating actionable insights  
 - Presenting data for non-technical audiences  
 
----
 
-## 📂 Project Structure
+
+
 
