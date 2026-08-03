@@ -14,7 +14,7 @@
 
 This project analyzes sleep patterns and lifestyle factors using an Excel-based dataset to understand how daily habits influence sleep quality, stress levels, BMI, and overall health.
 
-The goal of this project is to transform raw health data into clear, actionable insights** using data cleaning, pivot tables, and an interactive Excel dashboard.
+The goal of this project is to transform raw health data into clear, actionable insight using data cleaning, pivot tables, and an interactive Excel dashboard.
 
 ---
 
